@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("const React = __webpack_require__(/*! react */ \"react\");\n\nconsole.log(React);\n\n\n//# sourceURL=webpack:///./app.js?");
+eval("const React = __webpack_require__(/*! react */ \"react\");\n\nconsole.log(React, React);\n\n\n//# sourceURL=webpack:///./app.js?");
 
 /***/ }),
 
